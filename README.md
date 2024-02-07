@@ -13,3 +13,12 @@ Today, I am still very much in a learning and discovery phase. I'm enrolled at <
 # What's new? 🌟
 
 In the pipeline for the near future is the 'LIA'. I am about to go out there in the real world to continue to learn in a real-world context! 🌍
+
+
+# Contact Me 📫
+
+Feel free to reach out to me through the following channels:
+
+- LinkedIn: [<link>www.linkedin.com/in/hannes-alexandersson-3226952b3</link>](https://www.linkedin.com/yourprofile)
+- Email: <link>s103154@gmail.com</link>
+- Portfolio: [<link>Your Portfolio Website</link>](https://www.yourportfoliosite.com)
