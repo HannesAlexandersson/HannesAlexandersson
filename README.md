@@ -21,4 +21,4 @@ Feel free to reach out to me through the following channels:
 
 - LinkedIn: [<link>www.linkedin.com/in/hannes-alexandersson-3226952b3</link>](https://www.linkedin.com/yourprofile)
 - Email: <link>s103154@gmail.com</link>
-- Portfolio: [<link>My Portfolio Website</link>](https://alexanderochson.com/)
+- Portfolio: [<link>My Portfolio Website</link>](https://portfolio-new-eight-zeta.vercel.app/collection)
